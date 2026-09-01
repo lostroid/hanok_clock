@@ -2,7 +2,7 @@
 # 2026년도 개인 프로젝트 입니다.  
 ## 다음과 같은 순서로 진행을 합니다.
 PCB 규격 보단 기구 외형을 기준으로 다음과 같이 제작 합니다.   
-✔️ Step 1 사양 결정: 기능 선정  
+✔️ Step 1 기능 결정: 기능 선정  
 ✔️ Step 2 기구 설계 1차: 외형을 설계 (SOLIDWORKS Design) 사용 개발 조립 테스트  
 ✔️ Step 3 부품 선정: 기능 구현에 필요 부품 선정  
 ✔️ Step 4 PCB artwork: 회로도를 작성 합니다 (KICAD)  
@@ -12,6 +12,20 @@ PCB 규격 보단 기구 외형을 기준으로 다음과 같이 제작 합니�
   
 이 프로젝트는 디자인부터 하드웨어를 자체 설계하는 프로젝트 입니다  
   
+## STEP1. 기능  
+1. CLOCK 시간 표시  
+3. 온도 표시 
+4. 습도 표시
+5. 앨범 사진 기능
+7. 사운드 기능 MONO (TAS5815PWPR) I2C, SAD  
+8. Bluetooth 기능  
+9. Zigbee 기능
+### 관련 부품선정
   
-이후 링크  
+## STEP2. 기구  
 
+한국의 기와집을 연상케 하여 디자인  
+<img width="671" height="401" alt="스크린샷 2026-07-22 011608" src="https://github.com/user-attachments/assets/1a5cd35c-51c7-441d-bd16-2e9d8006ce6c" />  
+구현  
+<img width="1485" height="1000" alt="스크린샷 2026-07-22 230214" src="https://github.com/user-attachments/assets/0880e8d0-7bfb-4123-b7db-8b9fffd332ab" />  
+<img width="1658" height="1416" alt="스크린샷 2026-07-14 195159" src="https://github.com/user-attachments/assets/3fe8ad36-a7c4-47d7-a11a-8d26f36e541b" />  
