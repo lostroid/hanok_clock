@@ -11,3 +11,5 @@ PCB가 도착 하였습니다.
 
 모듈 결합 중심 헤더 핀 신호가 좌우 반전 되어 있는 것 빼고 현재 큰 문제가 없습니다.  
 I2C를 통한 광센서, 온습도 센서 확인, AMP 검증중  
+
+[유튜브 동작영상] (https://youtube.com/shorts/X96_jd1gVio?si=2cUv8YYZ7tJQB22s)
