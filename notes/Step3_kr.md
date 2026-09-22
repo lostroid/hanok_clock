@@ -15,4 +15,8 @@
 <img width="2108" height="1536" alt="스크린샷-2026-08-20-000430" src="https://github.com/user-attachments/assets/3853afb5-9612-4043-af9f-7b7453f7e187" />  
 <img width="1944" height="1554" alt="스크린샷-2026-08-19-235205" src="https://github.com/user-attachments/assets/ba478dec-37b9-4d2f-97fa-3dfde18d9094" />  
 
+출하  
+<img width="1076" height="920" alt="pcb_spac" src="https://github.com/user-attachments/assets/65e14393-7066-410e-992f-47345858ef8f" />  
+
+
 
