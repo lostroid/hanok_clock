@@ -2,6 +2,7 @@
 기존에 기능과 부품 선정을 토대로 진행합니다.   
   
 ## 회로도  
+툴 사용은 KICAD를 사용 하였습니다.
 페이지 1개로 완성 되었습니다.  
 <img width="3508" height="2480" alt="회로도" src="https://github.com/user-attachments/assets/1fb20ac9-4d37-4e99-96ad-57094999e7bf" />  
   
