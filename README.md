@@ -22,5 +22,7 @@
 [✔️ Step 3 : 아트웍  ](https://github.com/lostroid/hanok_clock/blob/main/notes/Step3_kr.md)  
 [✔️ Step 4 : PCB조립  ](https://github.com/lostroid/hanok_clock/blob/main/notes/step4_kr.md)   
 [✔️ Step 5 : 케이스 제작  ](https://github.com/lostroid/hanok_clock/blob/main/notes/step5.kr.md)   
+[✔️ Step 6 : 조립  ]   
+[✔️ Step 7 : 개발  ]   
 ⚠️ 실제 순차적으로 진행을 하면서 일부 펌웨어와 하드웨어 개선으로 step을 앞뒤로 이동 할 수는 있습니다.  
 
