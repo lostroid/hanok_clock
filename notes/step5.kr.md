@@ -1,4 +1,4 @@
-# 기구개발  
+# 케이스 제작  
  
 ## 기구 설계  
 ### 제작: 3D CAD 툴 인 3DEXPERIENCE SOLIDWORKS를 사용 (연간 48달러)
