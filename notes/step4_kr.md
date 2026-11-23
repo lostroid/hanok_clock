@@ -1,4 +1,4 @@
-# 조립 (개선 필요)  
+# PCB 조립 (개선 필요)  
 PCB가 도착 하였습니다.  
 화질 양해바랍니다.  
 <img width="1280" height="805" alt="KakaoTalk_20260923_001832914_02" src="https://github.com/user-attachments/assets/f5bcde7a-444f-4c53-b2fc-bb2859776893" />  
