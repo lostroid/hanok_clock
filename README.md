@@ -22,7 +22,7 @@
 ### 2차 목표
 
 <p align="center">
-<img width="800" height="284" alt="HANOK CLOCK 2차 목표" src="https://github.com/user-attachments/assets/a9cf51c6-5daa-4b80-92c3-7d784d90e1f9" />
+<img width="800" height="285" alt="image" src="https://github.com/user-attachments/assets/9f39f760-32e9-4157-b698-70b483f41d8d" />
 </p>
 
 ## 진행 순서
