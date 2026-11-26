@@ -21,6 +21,8 @@
 
 ### 2차 목표
 
+- DBOT과 같이 연동 하여 HOME 네트워크 구성 기술 학습 목표
+
 <p align="center">
 <img width="800" height="285" alt="image" src="https://github.com/user-attachments/assets/9f39f760-32e9-4157-b698-70b483f41d8d" />
 </p>
